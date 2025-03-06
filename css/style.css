@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Concert+One&family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{scroll-behavior: smooth}
+#banner
+{width:100%;background-image:url( "../img/result_24537393d1a5c64a6e531c6821872d7d.jpg");background-size:cover;background-repeat:no-repeat;background-size:cover;background-position:center}
+header{background-color:#F8EAC8}
+#aboutus{width:100%;background-color:#E5CD9F}
+#dichvu{width:100%;background-color:#F8EAC8}
+#author{width:100%;background-color:#E5CD9F}
+#booking{width:100%;background-color:#F8EAC8}
+#form{width:100%;background-color:#E5CD9F}
+footer{width:100%;background-color:#F8EAC8}
+.shadow{width:100%;min-height:200px;border:2px solid gray;box-shadow:5px 5px 5px gray;padding:20px;border-raius:20px}
+.align-item{align-items: center;text-align:center;margin:0.2px}
+.font-db{font-family:"Lobster", sans-serif}
+
+.vien{width:100%;min-height:200px;border:2px solid #F8EAC8;padding:10px;position:relative;overflow: hidden;border-radius:5%}
+.vien:hover .icon{top:40%}
+#feedback{width:100%;min-height:420px;background-image:url( "../img/tải xuống (33).jpg");background-repeat:no-repeat;background-size:cover;background-position:center}
+#contact{width:100%;background-color:#E5CD9F}
+
+#cafe{width:100%;background-image:url( "../img/ff3b34a9a6689e3617d68bf1d415cdac.jpg");background-size:cover;background-repeat:no-repeat;background-size:cover;background-position:center}
+#welcome{width:100%;background-color:#E5CD9F}
+#homestay{width:100%;background-color:#F8EAC8}
+#workshop{width:100%;background-color:#E5CD9F}
+.nau{text-co1or:#2D1900}
